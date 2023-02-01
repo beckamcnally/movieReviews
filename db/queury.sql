@@ -1,1 +1,1 @@
-SELECT FROM movies 
+SELECT movie_name FROM movies 
